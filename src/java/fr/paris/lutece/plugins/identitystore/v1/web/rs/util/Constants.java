@@ -66,6 +66,13 @@ public final class Constants
     public static final String ERROR_MESSAGE = "Failed : HTTP error code : ";
     public static final String NO_CUSTOMER_ID = "";
 
+    // HTTP Headers
+    public static final String APPLICATION_JSON = "application/json";
+    public static final String CONTENT_TYPE = "Content-Type";
+    public static final String ACCEPT = "Accept";
+    public static final String AUTHORIZATION = "Authorization";
+    public static final String APPLICATION_FORM_URLENCODED = "application/x-www-form-urlencoded";
+
     /**
      * Default constructor
      */
